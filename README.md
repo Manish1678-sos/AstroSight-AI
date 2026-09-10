@@ -18,7 +18,7 @@ Bash
 git clone https://github.com/your-org/astrosight.git
 cd astrosight
 docker-compose up --build
-React Dashboard: http://localhost:3000
+React Dashboard: http://localhost:5173
 
 Node Streaming Bridge: http://localhost:4000
 
